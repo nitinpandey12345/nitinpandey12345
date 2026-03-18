@@ -17,10 +17,8 @@
 - 💻 Linux | 🔗 Git/GitHub
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitin-2024devops&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-2024devops&layout=compact&theme=tokyonight)
+https://github.com/nitinpandey12345
 
 ## 📫 Connect With Me
-📧 nitin.devops2024@gmail.com
-💼 linkedin.com/in/nitin-gkp
+📧 nitinpandey9198@gmail.com
 🐦 @nitin_devops
